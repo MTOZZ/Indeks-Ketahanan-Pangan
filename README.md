@@ -106,7 +106,7 @@ Pada tahap ini kami melakukan beberapa tahap yaitu:
 ---
 
 # :pushpin: RECOMENDATION
----
+
 *FORECASTING*
 ---
 Penurunan trend IKP diprediksi terjadi ditahun 2028, hal ini didukung oleh trend penurunan pemanfaatan (Quality & Safety) dan juga keberlanjuta (Sustainability). Pemerintah perlu mengambil langkah strategis yaitu:
@@ -116,4 +116,30 @@ Penurunan trend IKP diprediksi terjadi ditahun 2028, hal ini didukung oleh trend
 
 dari beberapa langkah strategis tersebut, tidak lupa tetap memperhatikan lingkungan, kebersihan air, dan keanekaragaman hayati.
 ---
-  
+
+*CLUSTERING*
+---
+Cluster 1(Ungu)
+- Perbaikan distribusi pangan
+- Kebijakan harga dan daya beli
+- Edukasi tentang gizi dan pola makan sehat
+
+Cluster 2(Biru)
+- Diservekasi sumber pangan
+- Perbaikan ketahana pasokan pangan
+- Edukasi keberlanjutan tentang pengelolaan pangan
+- Peningkatan kapasitas produksi pangan lokal
+
+Cluster 3(Hijau)
+- Mempertahankan keberagaman sumber pangan
+- Peningkatan kapasitas pertanian dan distribusi
+- Edukasi dan promosi pola makan sehat
+- Inovasi dalam pengolahan pangan
+
+Cluster 4(Kuning)
+- Subsidi pangan
+- Perbaikan distribusi pangan
+- Diversifikasi sumber pangan
+- Membangun infrastruktur pertanian
+- Eudkasi gisi dan pola makan sehat
+- Pengembangan layanan kesehatan
