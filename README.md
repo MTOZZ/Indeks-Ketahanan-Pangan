@@ -61,3 +61,5 @@ Pada tahap ini kami melakukan beberapa tahap yaitu:
 ![Dekomposisi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Dekomposi4.jpg)
 - Statistik Deskriptif
 ![Statistik Deskriptif](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/StatistikDeskriptif.jpg)
+- Korelasi
+![Korelasi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Korelasi_TimeSeries.png)
