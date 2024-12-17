@@ -76,10 +76,28 @@ Pada tahap implementasi model ada beberapa tahap yaitu :
 - Proporsi Train Tes
 - Split Data
 - Menacari Parameter terbaik menggunakan MAE(*Mean Absolute Error*) dan mendapatkan hasil sebesar 3.8621
-
+---
 Hasil *FORECASTING* :chart_with_downwards_trend:
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Hasil_prediksi.png)
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/forecase1.png)
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/forecase2.png)
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/forecase3.png)
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Hasilpred_FSI.png)
+
+---
+
+# :hourglass: EXPLORATORY DATA ANALYSIS (EDA) CLUSTERING
+Pada tahap ini kami melakukan beberapa tahap yaitu:
+- Identifikasi Missing Value untuk mengecek apakah terdapat nilai kosong
+- Identifikasi Duplikasi Data untuk mengecek apakah terdapat data yang duplikat
+- Identifkasi Outlier untuk menghindari kesalahan analisis, memahami pola data, mendeteksi kesalahan pengukuran, meningkatkan kualitas model
+- Normalisasi Data Menggunakan MinMax Scaler Normalisasi data ini membantu memudahkan analisis perbandingan antarprovinsi dalam rentang yang sama, sehingga dapat digunakan untuk pengelompokan atau rekomendasi kebijakan berdasarkan indikator ketahanan pangan.
+
+# :heavy_check_mark: IMPLEMENTASI MODEL -> CLUSTERING (K-MEANS)
+- Mencari jumlah cluster terbaik menggunakan *Silhouette Score*
+  ![Silhoutte](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Sillhoette_K-Means.png)
+  dan mendapatkan jumlah cluster terbaik yaitu 4 dengan nilai *Sillhouette Score* **0.3791**
+---
+Hasil *CLUSTERING* :bar_chart:
+
+  
