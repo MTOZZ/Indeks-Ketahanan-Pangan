@@ -55,11 +55,26 @@ Pada tahap ini kami melakukan beberapa tahap yaitu:
 ![Plot Time Series](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/PlotTS3.png)
 ![Plot Time Series](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/PlotTS4.png)
 - Dekomposisi adalah proses statistik yang memecah data time series menjadi komponen-komponen individual.
+
 ![Dekomposisi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Dekomposi1.jpg)
 ![Dekomposisi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Dekomposi2.jpg)
 ![Dekomposisi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Dekomposi3.jpg)
 ![Dekomposisi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Dekomposi4.jpg)
 - Statistik Deskriptif
+
 ![Statistik Deskriptif](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/StatistikDeskriptif.jpg)
 - Korelasi
+
 ![Korelasi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Korelasi_TimeSeries.png)
+
+---
+
+# :heavy_check_mark: IMPLEMENTASI MODEL -> MULTIVARIATE TIME SERIES (Dynamic Faktor)
+Dynamic factor itu salah satu algoritma multivariate time series yang berguna untuk mengidentifikasi struktur yang mendasari dalam data time series yang kompleks, terutama ketika ada banyak variabel yang saling terkait.
+Pada tahap implementasi model ada beberapa tahap yaitu :
+- Mengatur Index 'Date'
+- Proporsi Train Tes
+- Split Data
+- Menacari Parameter terbaik menggunakan MAE(*Mean Absolute Error*) dan mendapatkan hasil sebesar 3.8621
+Hasil *FORECASTING*
+![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Hasil_prediksi.png)
