@@ -115,5 +115,5 @@ Penurunan trend IKP diprediksi terjadi ditahun 2028, hal ini didukung oleh trend
 - Pertanian Hidroponik
 
 dari beberapa langkah strategis tersebut, tidak lupa tetap memperhatikan lingkungan, kebersihan air, dan keanekaragaman hayati.
-
+---
   
