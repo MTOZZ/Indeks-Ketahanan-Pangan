@@ -105,5 +105,15 @@ Pada tahap ini kami melakukan beberapa tahap yaitu:
 
 ---
 
+# :pushpin: RECOMENDATION
+---
+*FORECASTING*
+---
+Penurunan trend IKP diprediksi terjadi ditahun 2028, hal ini didukung oleh trend penurunan pemanfaatan (Quality & Safety) dan juga keberlanjuta (Sustainability). Pemerintah perlu mengambil langkah strategis yaitu:
+- Smart Farming
+- Pertanian Akuaponik
+- Pertanian Hidroponik
+
+dari beberapa langkah strategis tersebut, tidak lupa tetap memperhatikan lingkungan, kebersihan air, dan keanekaragaman hayati.
 
   
