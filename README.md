@@ -109,7 +109,10 @@ Pada tahap ini kami melakukan beberapa tahap yaitu:
 
 *FORECASTING*
 ---
-Penurunan trend IKP diprediksi terjadi ditahun 2028, hal ini didukung oleh trend penurunan pemanfaatan (Quality & Safety) dan juga keberlanjuta (Sustainability). Pemerintah perlu mengambil langkah strategis yaitu:
+![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/forecase2.png)
+![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/forecase3.png)
+![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Hasilpred_FSI.png)
+Penurunan trend IKP diprediksi terjadi ditahun 2028, hal ini didukung oleh trend penurunan pemanfaatan (Quality & Safety) dan juga keberlanjutan (Sustainability). Pemerintah perlu mengambil langkah strategis yaitu:
 - Smart Farming
 - Pertanian Akuaponik
 - Pertanian Hidroponik
