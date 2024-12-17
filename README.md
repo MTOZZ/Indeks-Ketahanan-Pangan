@@ -8,6 +8,8 @@ Judul: **SINERGI EKONOMI HIJAU UNTUK MEWUJUDKAN KETAHANAN PANGAN BERKELANJUTAN**
 
 ---
 # :loudspeaker: PROBLEM STATEMENT
+meskipun Indonesia memiliki potensi besar dalam sektor pertanian, tantangan dalam keterjangkauan, ketersediaan, pemanfaatan, dan berkelanjutan pangan masih menjadi hambatan utama untuk mewujudkan ketahanan pangan.
+berdasarkan tren IKP.
 ![Tren Indeks Ketahanan Pangan](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/TrenIKP.png)
 
 Ketahanan pangan Indonesia mengalami tren penurunan selama 4 tahun terkahir. Hal ini memerlukan evaluasi lebih lanjut
