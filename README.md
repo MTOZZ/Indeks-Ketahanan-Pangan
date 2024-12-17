@@ -108,6 +108,7 @@ Pada tahap ini kami melakukan beberapa tahap yaitu:
 # :pushpin: RECOMENDATION
 
 *FORECASTING*
+
 ---
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/forecase2.png)
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/forecase3.png)
@@ -118,10 +119,13 @@ Penurunan trend IKP diprediksi terjadi ditahun 2028, hal ini didukung oleh trend
 - Pertanian Hidroponik
 
 dari beberapa langkah strategis tersebut, tidak lupa tetap memperhatikan lingkungan, kebersihan air, dan keanekaragaman hayati.
+
 ---
 
 *CLUSTERING*
+
 ---
+![K-Means](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/HasilCLuster.png)
 Cluster 1(Ungu)
 - Perbaikan distribusi pangan
 - Kebijakan harga dan daya beli
@@ -146,3 +150,13 @@ Cluster 4(Kuning)
 - Membangun infrastruktur pertanian
 - Eudkasi gisi dan pola makan sehat
 - Pengembangan layanan kesehatan
+
+pemerintah perlu mengambil langkah strategis yaitu:
+- Diservikasi pangan
+- Teknologi pertanian modern
+- Kolaborasi lintas sektor
+- Lumbung padi Sukabumi
+- Food Estate
+---
+# :clap: KESIMPULAN
+Prediksi nilai IKP Indonesia pada tahun 2024-2028 menunjukkan tren kenaikan, sedangkan pada tahun 2028-2030 diprediksi mengalami penurunan. Melalui sinergi antara kebijakan pangan dan ekonomi hijau di Indonesia dapat mendukung ketahanan pangan yang berkelanjutan. Regulasi pemerintah dan partisipasi masyarakat juga sangat diperlukan untuk memastikan keberhasilan implementasi yang efektif. 
