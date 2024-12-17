@@ -99,5 +99,6 @@ Pada tahap ini kami melakukan beberapa tahap yaitu:
   dan mendapatkan jumlah cluster terbaik yaitu 4 dengan nilai *Sillhouette Score* **0.3791**
 ---
 Hasil *CLUSTERING* :bar_chart:
-
+![K-Means](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/HasilCLuster.png)
+![K-Means](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/3D_K-Means.png)
   
