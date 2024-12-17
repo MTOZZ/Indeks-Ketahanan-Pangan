@@ -77,5 +77,9 @@ Pada tahap implementasi model ada beberapa tahap yaitu :
 - Split Data
 - Menacari Parameter terbaik menggunakan MAE(*Mean Absolute Error*) dan mendapatkan hasil sebesar 3.8621
 
-Hasil *FORECASTING*
+Hasil *FORECASTING* :chart_with_downwards_trend:
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Hasil_prediksi.png)
+![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/forecase1.png)
+![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/forecase2.png)
+![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/forecase3.png)
+![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Hasilpred_FSI.png)
