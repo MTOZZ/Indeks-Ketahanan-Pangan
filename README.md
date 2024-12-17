@@ -16,14 +16,11 @@ terhadap faktor ekonomi, sosial, lingkungan, dan kebijakan pemerintah, terutama 
 
 ---
 # :man_shrugging: GOALS
-- Forecasting
-  
+- Forecasting,
   Memberikan wawasan starategis bagi pengembang kebijakan yang mendukung keberlanjutan ketahanan pangan nasional.
-- Clustering
-  
+- Clustering,
   Mengidentifikasi kelompok wilayah agar kebijakan lebih spesifik, efektif, dan sesuai kebutuhan.
-- Strategic Policy
-  
+- Strategic Policy,
   Memastikan ketahanan pangan yang stabil dan berkelanjutan, dengan memastikan ketersediaan, keterjangkauan, dan pemanfaatan
   pangan yang merata bagi seluruh lapisan masyarakat.
 
