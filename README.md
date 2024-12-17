@@ -33,3 +33,12 @@ Dataset utama diambil dari *real dataset* yang bersumber pada https://data-explo
 
 # :chart_with_upwards_trend: DASHBOARD
 https://public.tableau.com/app/profile/team.bravo/viz/FinalProject_TeamB-RAVO/Dashboard4?publish=yes .
+
+---
+
+# :file_folder: DATA DICTIONARY
+*FORECASTING* & *CLUSTERING*
+- AFFORDABILITY: Indeks keterjangkauan pangan, mencerminkan kemampuan masyarakat dalam membeli pangan.
+- AVAILABILITY: Indeks ketersediaan pangan, menunjukkan seberapa tersedia pangan di suatu daerah.
+- QUALITY AND SAFETY: Indeks kualitas dan keamanan pangan, mengukur mutu serta keamanan pangan yang dikonsumsi.
+- SUSTAINABILITY AND ADAPTATION: Indeks keberlanjutan dan adaptasi, menunjukkan keberlanjutan sistem pangan terhadap perubahan lingkungan atau iklim.
