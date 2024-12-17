@@ -50,4 +50,8 @@ Pada tahap ini kami melakukan beberapa tahap yaitu:
 - Transformasi Data Karena Time Series membutuhkan kolom tanggal yang proper (berformat YYYY-MM-DD) maka perlu dipastikan apakah kolom tanggal pada data sudah sesuai dengan format tanggal universal. Jika belum maka ubah format tanggal tersebut.
 - Plot TimeSeries adalah alat yang sangat berguna untuk analisis data. Biasanya dengan line chart. Dengan memberikan visualisasi yang jelas, akan memungkinkan pengamat untuk mengambil wawasan yang signifikan dari data yang disajikan, yang dapat digunakan untuk pengambilan keputusan yang lebih baik.
 ![Plot Time Series](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/PlotTS.png)
+![Plot Time Series](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/PlotTS1.png)
+![Plot Time Series](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/PlotTS2.png)
+![Plot Time Series](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/PlotTS3.png)
+![Plot Time Series](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/PlotTS4.png)
 - 
