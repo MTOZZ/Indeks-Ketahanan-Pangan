@@ -27,4 +27,4 @@ terhadap faktor ekonomi, sosial, lingkungan, dan kebijakan pemerintah, terutama 
 ---
 
 # :bar_chart: DATA SET
-Dataset utama diambil dari *real dataset* yang bersumber pada https://data-explorer.oecd.org/.
+Dataset utama diambil dari *real dataset* yang bersumber pada https://data-explorer.oecd.org/ dan juga bersumber dari https://fsva.badanpangan.go.id/ .
