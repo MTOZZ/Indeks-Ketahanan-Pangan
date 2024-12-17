@@ -42,3 +42,11 @@ https://public.tableau.com/app/profile/team.bravo/viz/FinalProject_TeamB-RAVO/Da
 - AVAILABILITY: Indeks ketersediaan pangan, menunjukkan seberapa tersedia pangan di suatu daerah.
 - QUALITY AND SAFETY: Indeks kualitas dan keamanan pangan, mengukur mutu serta keamanan pangan yang dikonsumsi.
 - SUSTAINABILITY AND ADAPTATION: Indeks keberlanjutan dan adaptasi, menunjukkan keberlanjutan sistem pangan terhadap perubahan lingkungan atau iklim.
+
+---
+
+# :hourglass: EXPLORATORY DATA ANALYSIS (EDA) FORECASTING
+Pada tahap ini kami melakukan beberapa tahap yaitu:
+- Transformasi Data Karena Time Series membutuhkan kolom tanggal yang proper (berformat YYYY-MM-DD) maka perlu dipastikan apakah kolom tanggal pada data sudah sesuai dengan format tanggal universal. Jika belum maka ubah format tanggal tersebut.
+- Plot TimeSeries adalah alat yang sangat berguna untuk analisis data. Biasanya dengan line chart. Dengan memberikan visualisasi yang jelas, akan memungkinkan pengamat untuk mengambil wawasan yang signifikan dari data yang disajikan, yang dapat digunakan untuk pengambilan keputusan yang lebih baik.
+- 
