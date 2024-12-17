@@ -76,5 +76,6 @@ Pada tahap implementasi model ada beberapa tahap yaitu :
 - Proporsi Train Tes
 - Split Data
 - Menacari Parameter terbaik menggunakan MAE(*Mean Absolute Error*) dan mendapatkan hasil sebesar 3.8621
+
 Hasil *FORECASTING*
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Hasil_prediksi.png)
