@@ -28,3 +28,8 @@ terhadap faktor ekonomi, sosial, lingkungan, dan kebijakan pemerintah, terutama 
 
 # :bar_chart: DATA SET
 Dataset utama diambil dari *real dataset* yang bersumber pada https://data-explorer.oecd.org/ dan juga bersumber dari https://fsva.badanpangan.go.id/ .
+
+---
+
+# :chart_with_upwards_trend: DASHBOARD
+https://public.tableau.com/app/profile/team.bravo/viz/FinalProject_TeamB-RAVO/Dashboard4?publish=yes .
