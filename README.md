@@ -77,13 +77,14 @@ Pada tahap implementasi model ada beberapa tahap yaitu :
 - Split Data
 - Menacari Parameter terbaik menggunakan MAE(*Mean Absolute Error*) dan mendapatkan hasil sebesar 3.8621
 ---
-Hasil *FORECASTING* :chart_with_downwards_trend:
+# Hasil *FORECASTING* :chart_with_downwards_trend:
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Hasil_prediksi.png)
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/forecase1.png)
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/forecase2.png)
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/forecase3.png)
 ![Forecasting](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Hasilpred_FSI.png)
 
+---
 ---
 
 # :hourglass: EXPLORATORY DATA ANALYSIS (EDA) CLUSTERING
@@ -98,8 +99,11 @@ Pada tahap ini kami melakukan beberapa tahap yaitu:
   ![Silhoutte](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Sillhoette_K-Means.png)
   dan mendapatkan jumlah cluster terbaik yaitu 4 dengan nilai *Sillhouette Score* **0.3791**
 ---
-Hasil *CLUSTERING* :bar_chart:
+# Hasil *CLUSTERING* :bar_chart:
   ![K-Means](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/3D_K-Means.png)
   ![K-Means](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/HasilCLuster.png)
+
+---
+
 
   
