@@ -55,17 +55,17 @@ Pada tahap ini kami melakukan beberapa tahap yaitu:
 ![Plot Time Series](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/PlotTS3.png)
 ![Plot Time Series](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/PlotTS4.png)
 - Dekomposisi adalah proses statistik yang memecah data time series menjadi komponen-komponen individual.
-
-![Dekomposisi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Dekomposi1.jpg)
-![Dekomposisi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Dekomposi2.jpg)
-![Dekomposisi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Dekomposi3.jpg)
-![Dekomposisi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Dekomposi4.jpg)
+  
+  ![Dekomposisi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Dekomposi1.jpg)
+  ![Dekomposisi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Dekomposi2.jpg)
+  ![Dekomposisi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Dekomposi3.jpg)
+  ![Dekomposisi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Dekomposi4.jpg)
 - Statistik Deskriptif
 
-![Statistik Deskriptif](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/StatistikDeskriptif.jpg)
+  ![Statistik Deskriptif](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/StatistikDeskriptif.jpg)
 - Korelasi
 
-![Korelasi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Korelasi_TimeSeries.png)
+  ![Korelasi](https://raw.githubusercontent.com/MTOZZ/Indeks-Ketahanan-Pangan/main/Image/Korelasi_TimeSeries.png)
 
 ---
 
